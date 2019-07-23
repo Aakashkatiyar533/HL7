@@ -5,7 +5,7 @@ $(document).ready(function () {
 
 
 //console.log($('input[name="gender"]:checked').val());
-var index = adtArray.indexOf("asdddd");
+//var index = adtArray.indexOf("asdddd");
 console.log(index);
 var arr = [];
 var zip = new JSZip();
