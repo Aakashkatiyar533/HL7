@@ -1,7 +1,7 @@
-var msh = ["MSH", "^~/&", "CITIUSTECH", "HOSPITAL", "INTERFACE", "HOSPITALID", "20190605160521", "", "ADT^A08", "1234", "T", "2.5", "", "", "", "", "", "", "",
+var adtArray = ["MSH", "^~/&", "CITIUSTECH", "HOSPITAL", "INTERFACE", "HOSPITALID", "20190605160521", "", "ADT^A08", "1234", "T", "2.5", "", "", "", "", "", "", "",
     "\nEVN", "ADT^A31", "20170605160521", "", "",
     "\nPID", "1", "0001", "0001", "", "PATIENT^NAME", "", "19990809", "M", "", "", "ADDRESS", "", "PHONE", "", "", "", "", "VisitID", "", "", "", "", "", "", "", "", "", "", "", "", "0001", "", "",
-    "\nPV1", "1", "I", "2^^Waiting Room^^^^^^Med Surge", "", "", "", "NPI^PROVIDERNAME", "", "", "", "", "", "", "", "", "", "NPI^PROVIDERNAME1", "Inpatient", "VisitID", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+    "\nPV1", "1", "I", "2^^Waiting Room^^^^^^Med Surge", "", "", "", "NPI^PROVIDERNAME", "", "", "", "", "", "", "", "", "", "NPI^PROVIDERNAME1", "Inpatient", "VisitID", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "asdddd",
     "\nAL1", "1", "", "AllergenCode", "", "", "",
     "\nGT1", "1", "", "GUARANTOR^NAME", "", "GUARANTOR^ADDRESS", "Phone^Number", "", "", "", "", "Guarantor^Relationship",
     "\nIN1", "1", "ID^Insurance Name", "Insurance Company", "", "", "", ""
