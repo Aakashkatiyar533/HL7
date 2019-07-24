@@ -32,7 +32,7 @@ $("#save-btn").click(function () {
     patient_class += $(this).val() + ',';
   });
   patient_class = patient_class.substring(0, patient_class.length - 1);
-  //console.log(patient_class);
+  console.log(patient_class);
   var patientClassArray = patient_class.split(',');
   //console.log(patientClassArray);
 
